@@ -6,7 +6,6 @@
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/github/github.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/gitlab/gitlab.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/jenkins/jenkins.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/sql/sql.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/terraform/terraform.png"></code>
 <br /><br />
